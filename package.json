@@ -1,0 +1,15 @@
+{
+  "name": "starwars-api",
+  "version": "1.0.0",
+  "description": "starwars api to know more of nodejs and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julia Franciele Vendruscolo Bilhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.4"
+  }
+}
